@@ -1,6 +1,6 @@
 # 💊 Cloud Farmácia
-Projeto desenvolvido
-Simula uma farmácia online com cadastro de produtos e usuários.
+
+Projeto desenvolvido como prática de desenvolvimento web, simulando uma plataforma de farmácia online com interface de usuários e backend estruturado.
 
 ## Estrutura do Projeto
 
