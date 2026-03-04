@@ -1,4 +1,4 @@
-# 💊 Cloud Farmácia AWS
+# 💊 Cloud Farmácia
 Projeto desenvolvido
 Simula uma farmácia online com cadastro de produtos e usuários.
 
